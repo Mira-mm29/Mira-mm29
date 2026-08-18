@@ -3,15 +3,15 @@
 
 ## 🐼 About Me
 - 🎓 I'm currently learning **Java** and **GitHub**
-- 🌱 I'm interested in **Algorithm** and **Backend Development**
-- 💬 Ask me about **anything related to coding**
+- 🌱 I'm interested in **Backend Development** and **Entertainment**
+- 💬 Teach me about **anything related to coding**
 
 ## 📫 How to reach me
 - GitHub: [@Mira-mm29](https://github.com/Mira-mm29)
 
 ## 🛠️ Tech Stack
-- **Languages**: C,Java (learning)
-- **Tools**: IntelliJ IDEA, Git
+- **Languages**: English,Français (apprentissage),C,Java (learning)
+- **Tools**:Macbook，IntelliJ IDEA, DateGrip
 
 ---
 
